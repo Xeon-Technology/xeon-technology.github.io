@@ -1,6 +1,6 @@
 # Hello There, 
 
-## Welcome to the [Xeon Technology Ltd](https://www.xeontechnology.ltd) wiki!
+## Welcome to the [Xeon Technology Ltd](https://www.xeontechnology.ltd)!
 ### Looking for a solution to solve all of your business problems at once? **Then you are in the right place!**
 
 - We provide top-tech solutions for your business or organization.
